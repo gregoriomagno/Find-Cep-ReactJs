@@ -1,0 +1,37 @@
+.list-group-item span{
+    display: block;
+    width: 100%;
+}
+
+
+.Row{
+    
+    width: 100%;
+    position: absolute;
+    left: 0rem;
+
+
+}
+
+.TextFavorites{
+    text-align: center;
+}
+.Form{
+    margin-top: 5%;
+    margin-bottom: 5%;
+    text-align: center;
+}
+.button-search{
+    margin-top: 5%;
+}
+.favoritos{
+   
+    align-content: center;
+    justify-content: center;
+}
+.itemFavoritos{
+
+    align-content: center;
+    justify-content: center;
+}
+

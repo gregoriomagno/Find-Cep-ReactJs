@@ -1,0 +1,19 @@
+.input{
+    margin-left: 2rem;
+}
+.iconButton{
+    padding: 10;
+}
+.divider{
+    height: 28;
+    margin: 4;
+}
+.paper{
+   
+    padding-top: 2rem;
+    padding-left: 1rem;
+    display: flex;
+    align-items: center;
+    width: 400;
+
+}
